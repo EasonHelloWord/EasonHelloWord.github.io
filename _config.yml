@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mszdg.easonjan.top//
+url: http://www.easonjan.top//
 date_format: "ordinal"
-title: MSZ开发者社区
-subtitle: "闵行实中 X MSZ开发者社区"
-description: "MSZ开发者社区的博客"
-keywords: MSZ开发者社区,开发者社区,闵行区实验高级中学,闵行实高,MSZDG,mszdg
+title: 欢迎来到EasonHelloWord的博客
+subtitle: "EasonHelloWord"
+description: "EasonHelloWord的个人博客"
+keywords: EasonHelloWord,博客
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: MSZDevelopmentGroup/MSZ-Developer-Groups
+repository: EasonHelloWord/EasonHelloWord.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: false
-        image_alt: MSZ开发者社区
+        image_alt: EasonHelloWord
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: MSZ开发者社区
-organization: MSZ开发者社区
-organization_url: http://mszdg.easonjan.top//
+author: EasonHelloWord
+organization: EasonHelloWord
+organization_url: https://github.com/EasonHelloWord/
 github_username: EasonHelloWord
 location: Shanghai, China
-email: mszdg@easonjan.top
+email: easonjan@easonjan.top
 
 # ---------------- #
 #    Navigation    #
@@ -173,10 +173,10 @@ beaudar:
     repo: EasonHelloWord/MSZ-Developer-Groups
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: MSZDevelopmentGroup/MSZ-Developer-Groups
-    repo-id: R_kgDOKphCSw
+    repo: EasonHelloWord/EasonHelloWord.github.io
+    repo-id: R_kgDOKvvQyw
     category: Announcements
-    category-id: DIC_kwDOKphCS84Casuz
+    category-id: DIC_kwDOKvvQy84CbGMW
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
