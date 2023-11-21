@@ -4,10 +4,10 @@
 baseurl:
 url: http://www.easonjan.top//
 date_format: "ordinal"
-title: 欢迎来到EasonHelloWord的博客
+title: 欢迎来到EasonJan的博客
 subtitle: "EasonHelloWord"
-description: "EasonHelloWord的个人博客"
-keywords: EasonHelloWord,博客
+description: "EasonJan的个人博客"
+keywords: EasonHelloWord,博客,EasonJan
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
